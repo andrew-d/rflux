@@ -1,0 +1,23 @@
+{
+  "name": "rflux",
+  "version": "0.0.0",
+  "description": "An implementation of Facebook's Flux architecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run jshint && npm run jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrew-d/rflux.git"
+  },
+  "author": "Andrew Dunham (andrew@du.nham.ca)",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/andrew-d/rflux/issues"
+  },
+  "homepage": "https://github.com/andrew-d/rflux",
+  "devDependencies": {
+    "jest": "^0.1.37",
+    "jshint": "^2.5.2"
+  }
+}
